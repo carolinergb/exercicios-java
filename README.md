@@ -1,4 +1,4 @@
-# Exercícios Java
+# Exercícios
 Curso de Java Completo do Professor Dr. Nelio Alves.
 
 ## <a href="https://github.com/carolinergb/exercicios-java/tree/master/src/primeiro_programa">Primeiro programa</a>
