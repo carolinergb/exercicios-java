@@ -1,5 +1,5 @@
 # Exercícios
-Curso de Java Completo do Professor Dr. Nelio Alves.
+Curso completo de Java, OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL e MongoDB do Professor Dr. Nelio Alves.
 
 ## <a href="https://github.com/carolinergb/exercicios-java/tree/master/src/primeiro_programa">Primeiro programa</a>
 Nesse exercício foi ensinado como criar o package, como criar uma classe e como utilizar o objeto System.out, foi utilizado também o método println().
